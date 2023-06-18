@@ -1,4 +1,4 @@
-name: naszaworkflow
+name: Nazwaworkflow
 
 on:
   push:
